@@ -1,0 +1,15 @@
+{
+  "gladly": {
+    "apiUrl": "https://your-org.gladly.com",
+    "username": "your-api-user@example.com",
+    "apiToken": "your-api-token"
+  },
+  "enterpret": {
+    "apiUrl": "https://api.enterpret.com",
+    "apiKey": "your-enterpret-api-key"
+  },
+  "stateFilePath": "./data/import-state.json",
+  "batchSize": 100,
+  "maxRetries": 3,
+  "retryDelay": 5000
+}
